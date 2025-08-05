@@ -1,4 +1,4 @@
-# Spectral and Freezing-Based Enhancements for Randomized Neural Networks (RdNNs)
+# Learning with StaR and FLAiR: Stabilizing and Enriching Randomized Neural Representations
 
 
 This repository provides the complete codebase for the experiments presented in our study title "Learning with StaR and FLAiR: Stabilizing and Enriching Randomized Neural Representations" on enhancing the stability and performance of Randomized Neural Networks (RdNNs) using two novel frameworks:
