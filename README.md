@@ -13,11 +13,11 @@ The repository is structured to reflect both the **baseline models** and their *
 
 
 ├── StaR
-│ ├── Baseline/ # Baseline implementations for RVFL, ELM, BLS, dRVFL (MATLAB + Python)
+│ ├── Baseline/ # Baseline implementations for RVFL, ELM, BLS, dRVFL 
 │ └── Proposed/ # StaR-enhanced versions of RVFL, ELM, BLS, dRVFL
 │
 ├── FLAiR
-│ ├── Baseline/ # Baseline implementations for RVFL, ELM, BLS, dRVFL (Python)
+│ ├── Baseline/ # Baseline implementations for RVFL, ELM, BLS, dRVFL 
 │ └── Proposed/ # FLAiR-enhanced versions of RVFL, ELM, BLS, dRVFL
 │
 ├── README.md # You're here!
